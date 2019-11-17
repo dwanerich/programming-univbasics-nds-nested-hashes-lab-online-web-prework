@@ -24,8 +24,8 @@ def literal_aoh
   # held in the constants
   
   nested_array = [
-    DON_G[:occupation],
-    PAT_M[:name]
+    {:name => "Pat Monteseian"}]
+    
  ]
 end
 
