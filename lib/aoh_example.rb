@@ -29,8 +29,6 @@ def literal_aoh
     [1]][:name]
     ]
 
-    
-  
 end
 
 def aoh_lookup(aoh, row, key)
