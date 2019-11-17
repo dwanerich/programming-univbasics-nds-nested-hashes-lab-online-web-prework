@@ -61,7 +61,7 @@ def aoh_update(aoh, row, key, new_value)
     {:name => "Bruce Green", :occupation => "Fan of Mildred"}
     ]
     
-    new_array[0][:name] = "Dwane Richards"
+    new_array[0][:name] = "new_value"
     new_array
   
 end
