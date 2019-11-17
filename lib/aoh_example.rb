@@ -7,11 +7,11 @@ KATE_G = { name:  "Kate Gompert", occupation: "None" }
 BRUCE_G = { name:  "Bruce Green", occupation: "Fan of Mildred" }
 
 def assembled_aoh
+  
   new_hash = [
-    CONS_1,
+    {:name "Joelle van Dyne", 
     CONS_2
   ]
-  
   
   # Build an array that contains (or, "nests") the constants into a single
   # Array. Ruby constants are denoted by ALL_CAPS
