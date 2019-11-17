@@ -9,8 +9,8 @@ BRUCE_G = { name:  "Bruce Green", occupation: "Fan of Mildred" }
 def assembled_aoh
   
   new_hash = [
-    {:name => "value", :name => "value"},
-    {:name => "value", :name => "value"}
+    {:name => "Don Gately", :occupation => "Live-in Staff"},
+    {:name => "Bruce Green", :name => "Fan of Mildred"}
   ]
   
   # Build an array that contains (or, "nests") the constants into a single
