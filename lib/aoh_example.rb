@@ -24,8 +24,9 @@ def literal_aoh
   # held in the constants
   
   new_array = [ 
-    [:name]["Don Gately"][:occupation],
-    ["Bruce Green"][:occupation]
+    [0][:occupation],
+    [2][:occupation],
+    [1]][:name]
     ]
 
     
