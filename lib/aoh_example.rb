@@ -24,7 +24,7 @@ def literal_aoh
   # held in the constants
   
   nested_array = [
-    {:name => "Pat Monteseian"}]
+    {2, :name]
     
 end
 
