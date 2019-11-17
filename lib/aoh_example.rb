@@ -27,7 +27,7 @@ def literal_aoh
     [2][:name]
     ]
  
- 
+ p new_array
  
 end
 
