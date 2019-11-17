@@ -10,7 +10,7 @@ def assembled_aoh
   
   new_hash = [
     {:name => "Don Gately", :occupation => "Live-in Staff"},
-    {:name => "Bruce Green", :name => "Fan of Mildred"}
+    {:name => "Bruce Green", :occupation => "Fan of Mildred"}
   ]
   
   # Build an array that contains (or, "nests") the constants into a single
