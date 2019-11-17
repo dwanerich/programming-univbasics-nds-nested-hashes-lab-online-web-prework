@@ -23,8 +23,10 @@ def literal_aoh
   # Using Array literal syntax only, build a nested array that uses the data in
   # held in the constants
   
-  new_array = [[new_hash[2][:name]]
- 
+  nested_array = []
+    [2][:name],
+    [1][:occupation]
+ ]
 end
 
 def aoh_lookup(aoh, row, key)
