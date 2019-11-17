@@ -23,12 +23,11 @@ def literal_aoh
   # Using Array literal syntax only, build a nested array that uses the data in
   # held in the constants
   
-  new_array = [
-    
-    DON_G[0],
-    JOELLE_VD[:name],
-    PAT_M[:occupation]
+  new_array = [ 
+    {[:name]["Don Gately"][:occupation]},
+    {["Bruce Green"][:occupation]}
     ]
+
     
   
 end
