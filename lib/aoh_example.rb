@@ -11,7 +11,6 @@ def assembled_aoh
   new_hash = [
     {:name => value, :name => value},
     {:name => value, :name => value}
-    
   ]
   
   # Build an array that contains (or, "nests") the constants into a single
