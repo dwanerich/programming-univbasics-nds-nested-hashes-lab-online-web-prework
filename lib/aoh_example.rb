@@ -27,7 +27,7 @@ def literal_aoh
     [0][:occupation],
     [2][:occupation]
     ]
-
+  p new_array
 end
 
 def aoh_lookup(aoh, row, key)
