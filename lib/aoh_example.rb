@@ -24,8 +24,7 @@ def literal_aoh
   # held in the constants
   
   new_array = [ 
-    [0][:occupation],
-    [2][:occupation]
+    [2][:name]
     ]
   p new_array
 end
