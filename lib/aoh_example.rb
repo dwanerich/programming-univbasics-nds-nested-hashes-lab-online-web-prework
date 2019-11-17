@@ -32,7 +32,7 @@ def literal_aoh
   ]
   
   
-  new_hash[2][:name]
+  p new_hash[2][:name]
  
 end
 
