@@ -23,16 +23,7 @@ def literal_aoh
   # Using Array literal syntax only, build a nested array that uses the data in
   # held in the constants
   
-  new_hash = [
-    DON_G,
-    JOELLE_VD,
-    PAT_M,
-    KATE_G,
-    BRUCE_G
-  ]
-  
-  
-  p new_hash[2][:name]
+  new_array = [[new_hash[2][:name]]
  
 end
 
