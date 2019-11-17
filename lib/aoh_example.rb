@@ -24,7 +24,7 @@ def literal_aoh
   # held in the constants
   
   nested_array = [
-    [2][:name],
+    DOG_G[:name],
     [1][:occupation]
  ]
 end
