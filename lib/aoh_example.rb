@@ -29,8 +29,6 @@ def literal_aoh
  
 end
 
-p new_array
-
 def aoh_lookup(aoh, row, key)
 end
 
