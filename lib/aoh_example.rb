@@ -23,7 +23,8 @@ def literal_aoh
   # Using Array literal syntax only, build a nested array that uses the data in
   # held in the constants
   
-  new_array = [ 
+  new_array = 
+  PAT_M 
     [2][:name]
     ]
   p new_array
