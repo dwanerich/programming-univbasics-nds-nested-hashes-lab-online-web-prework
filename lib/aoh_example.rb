@@ -26,7 +26,6 @@ def literal_aoh
   nested_array = [
     {:name => "Pat Monteseian"}]
     
- ]
 end
 
 def aoh_lookup(aoh, row, key)
