@@ -27,9 +27,9 @@ def literal_aoh
     [2][:name]
     ]
  
- p new_array
- 
 end
+
+p new_array
 
 def aoh_lookup(aoh, row, key)
 end
